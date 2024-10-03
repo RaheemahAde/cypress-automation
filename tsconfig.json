@@ -1,0 +1,15 @@
+  {
+    "compilerOptions": {
+      "target": "es6",
+      "lib": ["es6", "dom"],
+      "types": ["cypress", "node"],
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "baseUrl": "https://www.saucedemo.com",
+    },
+    "include": [
+      "cypress/**/*.ts"
+    ]
+  }
+  
