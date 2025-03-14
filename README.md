@@ -18,7 +18,7 @@ This project is set up to test web applications with Cypress, using TypeScript. 
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [Node.js](https://nodejs.org/)
 - [Cypress](https://www.cypress.io/)
 - Basic knowledge of TypeScript.
 
